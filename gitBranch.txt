@@ -1,0 +1,12 @@
+브랜치 관리하기
+git branch // 현재 브랜치의 목록과 함께 현재 작업 중인 브랜치가 *로 표시
+git branch 브랜치 // 브랜치 나누기
+git checkout 브랜치 // 체크아웃하기
+git checkout -b 브랜치 // 브랜치를 만들기와 동시에 이동하기
+git merge 브랜치 // 브랜치 병합하기
+git branch -d 브랜치 // 브랜치 삭제하기
+git rebase 브랜치 // 브랜치 재배치하기
+
+원격 저장소와 상호 작용
+git clone // 원격 저장소를 복제하기
+git push // 원격 저장소에 넣기
